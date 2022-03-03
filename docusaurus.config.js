@@ -14,7 +14,8 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "reaxi", // Usually your GitHub org/user name.
-  projectName: "reaxi", // Usually your repo name.
+  projectName: "reaxi-website", // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
